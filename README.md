@@ -1,3 +1,3 @@
 # dopt
 
-Attempt to solve dynamic optimization problem from Coursera course.
+Attempt to solve dynamic optimization problems from Coursera course.
